@@ -6,4 +6,6 @@ public class TaskCase6 {
 
     // new code from GitHub 
     // practice downflow
+
+    //new changes
 }
